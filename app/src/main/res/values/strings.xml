@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageDetection</string>
+    <string name="failed_to_load_images">Failed to load images</string>
+    <string name="search_by_ai_tag">Search by AI tag...</string>
+</resources>
